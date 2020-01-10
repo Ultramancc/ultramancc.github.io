@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ultramancc</title>
+  
+  <subtitle>Viva La Vida</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-01-10T03:40:21.052Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Ultramancc</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Daddy_Coldplay</title>
+    <link href="http://yoursite.com/2019/12/23/Daddy-Coldplay/"/>
+    <id>http://yoursite.com/2019/12/23/Daddy-Coldplay/</id>
+    <published>2019-12-23T06:18:58.000Z</published>
+    <updated>2020-01-10T03:40:21.052Z</updated>
+    
+    <summary type="html">
+    
+      daddy from coldplay, one of my favorite song from new album everyday life
+    
+    </summary>
+    
+      <category term="music" scheme="http://yoursite.com/categories/music/"/>
+    
+    
+      <category term="music" scheme="http://yoursite.com/tags/music/"/>
+    
+      <category term="coldplay" scheme="http://yoursite.com/tags/coldplay/"/>
+    
+      <category term="everyday life" scheme="http://yoursite.com/tags/everyday-life/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Clostridium difficile ribotype 027 – epidemiology and mechanisms of hypervirulence</title>
+    <link href="http://yoursite.com/2019/03/28/RT027/"/>
+    <id>http://yoursite.com/2019/03/28/RT027/</id>
+    <published>2019-03-28T12:41:21.000Z</published>
+    <updated>2019-03-28T12:51:26.000Z</updated>
+    
+    <summary type="html">
+    
+      Clostridium difficile ribotype 027 – epidemiology and mechanisms of hypervirulence
+    
+    </summary>
+    
+      <category term="microbiology" scheme="http://yoursite.com/categories/microbiology/"/>
+    
+    
+      <category term="blog" scheme="http://yoursite.com/tags/blog/"/>
+    
+      <category term="microbiology" scheme="http://yoursite.com/tags/microbiology/"/>
+    
+      <category term="clostridium difficile" scheme="http://yoursite.com/tags/clostridium-difficile/"/>
+    
+      <category term="ultraman" scheme="http://yoursite.com/tags/ultraman/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Laboratory diagnosis of latent tuberculosis</title>
+    <link href="http://yoursite.com/2019/02/24/tuberculosis/"/>
+    <id>http://yoursite.com/2019/02/24/tuberculosis/</id>
+    <published>2019-02-24T09:53:33.000Z</published>
+    <updated>2019-02-24T10:24:12.000Z</updated>
+    
+    <summary type="html">
+    
+      Laboratory diagnosis of latent tuberculosis
+    
+    </summary>
+    
+      <category term="microbiology" scheme="http://yoursite.com/categories/microbiology/"/>
+    
+    
+      <category term="blog" scheme="http://yoursite.com/tags/blog/"/>
+    
+      <category term="microbiology" scheme="http://yoursite.com/tags/microbiology/"/>
+    
+      <category term="tuberculosis" scheme="http://yoursite.com/tags/tuberculosis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>林家谦_下一位前度_MV</title>
+    <link href="http://yoursite.com/2019/01/12/%E6%9E%97%E5%AE%B6%E8%B0%A6-%E4%B8%8B%E4%B8%80%E4%BD%8D%E5%89%8D%E5%BA%A6-MV/"/>
+    <id>http://yoursite.com/2019/01/12/林家谦-下一位前度-MV/</id>
+    <published>2019-01-12T09:30:22.000Z</published>
+    <updated>2019-01-30T08:47:49.000Z</updated>
+    
+    <summary type="html">
+    
+      林家谦_下一位前度_MV
+    
+    </summary>
+    
+      <category term="音乐" scheme="http://yoursite.com/categories/%E9%9F%B3%E4%B9%90/"/>
+    
+    
+      <category term="MV" scheme="http://yoursite.com/tags/MV/"/>
+    
+      <category term="下一位前度" scheme="http://yoursite.com/tags/%E4%B8%8B%E4%B8%80%E4%BD%8D%E5%89%8D%E5%BA%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>台湾游记</title>
+    <link href="http://yoursite.com/2018/12/27/Taiwan-trip/"/>
+    <id>http://yoursite.com/2018/12/27/Taiwan-trip/</id>
+    <published>2018-12-27T13:29:32.000Z</published>
+    <updated>2018-12-27T13:49:41.000Z</updated>
+    
+    <summary type="html">
+    
+      游记
+    
+    </summary>
+    
+      <category term="trip" scheme="http://yoursite.com/categories/trip/"/>
+    
+    
+      <category term="trip" scheme="http://yoursite.com/tags/trip/"/>
+    
+      <category term="游记" scheme="http://yoursite.com/tags/%E6%B8%B8%E8%AE%B0/"/>
+    
+      <category term="ultramanccc" scheme="http://yoursite.com/tags/ultramanccc/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Carba NP methods used in the detection of Carbapenemase-Producing bacteria</title>
+    <link href="http://yoursite.com/2018/12/20/Carba-NP-Test/"/>
+    <id>http://yoursite.com/2018/12/20/Carba-NP-Test/</id>
+    <published>2018-12-20T13:23:13.000Z</published>
+    <updated>2018-12-20T13:43:45.000Z</updated>
+    
+    <summary type="html">
+    
+      CPE detection
+    
+    </summary>
+    
+      <category term="CPE detection" scheme="http://yoursite.com/categories/CPE-detection/"/>
+    
+    
+      <category term="Carba NP test" scheme="http://yoursite.com/tags/Carba-NP-test/"/>
+    
+      <category term="CPE" scheme="http://yoursite.com/tags/CPE/"/>
+    
+      <category term="Ultramancc" scheme="http://yoursite.com/tags/Ultramancc/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>随记</title>
+    <link href="http://yoursite.com/2018/12/16/%E9%9A%8F%E8%AE%B0/"/>
+    <id>http://yoursite.com/2018/12/16/随记/</id>
+    <published>2018-12-16T10:42:32.000Z</published>
+    <updated>2018-12-16T11:25:47.000Z</updated>
+    
+    <summary type="html">
+    
+      随记
+    
+    </summary>
+    
+      <category term="diary" scheme="http://yoursite.com/categories/diary/"/>
+    
+    
+      <category term="ultramanccc" scheme="http://yoursite.com/tags/ultramanccc/"/>
+    
+      <category term="随记" scheme="http://yoursite.com/tags/%E9%9A%8F%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Preview about PATH6100 topic 1</title>
+    <link href="http://yoursite.com/2018/08/31/PATH6100/"/>
+    <id>http://yoursite.com/2018/08/31/PATH6100/</id>
+    <published>2018-08-30T16:56:44.000Z</published>
+    <updated>2018-08-30T17:28:03.000Z</updated>
+    
+    <summary type="html">
+    
+      Preview about PATH6100 topic 1
+    
+    </summary>
+    
+    
+      <category term="blog" scheme="http://yoursite.com/tags/blog/"/>
+    
+      <category term="protein analysis methods" scheme="http://yoursite.com/tags/protein-analysis-methods/"/>
+    
+      <category term="medical science" scheme="http://yoursite.com/tags/medical-science/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>An overview of the antimicrobial resistance mechanism of bacteria</title>
+    <link href="http://yoursite.com/2018/08/23/AMRS/"/>
+    <id>http://yoursite.com/2018/08/23/AMRS/</id>
+    <published>2018-08-23T08:36:37.000Z</published>
+    <updated>2018-08-23T08:50:44.000Z</updated>
+    
+    <summary type="html">
+    
+      An overview of the antimicrobial resistance mechanism of bacteria
+    
+    </summary>
+    
+    
+      <category term="blog" scheme="http://yoursite.com/tags/blog/"/>
+    
+      <category term="microbiology" scheme="http://yoursite.com/tags/microbiology/"/>
+    
+      <category term="AMRS" scheme="http://yoursite.com/tags/AMRS/"/>
+    
+      <category term="bacteria" scheme="http://yoursite.com/tags/bacteria/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>summary of Antimicrobial Resistance in Escherichia coli</title>
+    <link href="http://yoursite.com/2018/08/10/summary%20of%20Antimicrobial%20Resistance%20in%20Escherichia%20coli/"/>
+    <id>http://yoursite.com/2018/08/10/summary of Antimicrobial Resistance in Escherichia coli/</id>
+    <published>2018-08-10T12:02:41.000Z</published>
+    <updated>2018-08-10T12:25:01.000Z</updated>
+    
+    <summary type="html">
+    
+      Antimicrobial Resistance in Escherichia coli
+    
+    </summary>
+    
+    
+      <category term="blog" scheme="http://yoursite.com/tags/blog/"/>
+    
+      <category term="microbiology" scheme="http://yoursite.com/tags/microbiology/"/>
+    
+      <category term="E.coli" scheme="http://yoursite.com/tags/E-coli/"/>
+    
+      <category term="antimicrobial resistance" scheme="http://yoursite.com/tags/antimicrobial-resistance/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://yoursite.com/2018/08/06/test/"/>
+    <id>http://yoursite.com/2018/08/06/test/</id>
+    <published>2018-08-06T06:10:07.000Z</published>
+    <updated>2018-08-06T07:30:34.000Z</updated>
+    
+    <summary type="html">
+    
+      testForNewPost
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>随想</title>
+    <link href="http://yoursite.com/2018/07/12/%E9%9A%8F%E6%83%B3/"/>
+    <id>http://yoursite.com/2018/07/12/随想/</id>
+    <published>2018-07-12T14:28:19.000Z</published>
+    <updated>2018-08-06T07:12:17.000Z</updated>
+    
+    <summary type="html">
+    
+      愿你在被打击时 记起你的珍贵 抵抗恶意 愿你在迷茫时 坚信你的珍贵 爱你所爱 行你所行 听从你心 无问西东
+    
+    </summary>
+    
+    
+      <category term="blog" scheme="http://yoursite.com/tags/blog/"/>
+    
+      <category term="随想" scheme="http://yoursite.com/tags/%E9%9A%8F%E6%83%B3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>肿瘤表观遗传学（epigenetics）浅谈</title>
+    <link href="http://yoursite.com/2018/06/27/epigenetics/"/>
+    <id>http://yoursite.com/2018/06/27/epigenetics/</id>
+    <published>2018-06-27T13:36:17.000Z</published>
+    <updated>2018-07-12T15:34:09.000Z</updated>
+    
+    <summary type="html">
+    
+      肿瘤表观遗传学
+    
+    </summary>
+    
+    
+      <category term="Blog" scheme="http://yoursite.com/tags/Blog/"/>
+    
+      <category term="epigenetics" scheme="http://yoursite.com/tags/epigenetics/"/>
+    
+      <category term="DNA methylation" scheme="http://yoursite.com/tags/DNA-methylation/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>new start!</title>
+    <link href="http://yoursite.com/2018/06/14/new-start/"/>
+    <id>http://yoursite.com/2018/06/14/new-start/</id>
+    <published>2018-06-14T03:21:27.000Z</published>
+    <updated>2018-06-15T16:01:05.000Z</updated>
+    
+    <summary type="html">
+    
+      随想
+    
+    </summary>
+    
+    
+      <category term="Blog" scheme="http://yoursite.com/tags/Blog/"/>
+    
+      <category term="GitHub" scheme="http://yoursite.com/tags/GitHub/"/>
+    
+  </entry>
+  
+</feed>

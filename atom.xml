@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-27T08:12:50.730Z</updated>
+  <updated>2020-12-14T13:34:34.230Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,53 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>亡命之徒-纵贯线</title>
+    <link href="http://yoursite.com/2020/12/14/%E4%BA%A1%E5%91%BD%E4%B9%8B%E5%BE%92-%E7%BA%B5%E8%B4%AF%E7%BA%BF/"/>
+    <id>http://yoursite.com/2020/12/14/亡命之徒-纵贯线/</id>
+    <published>2020-12-14T13:16:30.000Z</published>
+    <updated>2020-12-14T13:34:34.230Z</updated>
+    
+    <summary type="html">
+    
+      我们都不必在意未来的样子，像是精神病患写的诗，或是烟花绽放的节日，随它去吧,我们都只活一次
+    
+    </summary>
+    
+      <category term="music" scheme="http://yoursite.com/categories/music/"/>
+    
+    
+      <category term="music" scheme="http://yoursite.com/tags/music/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DNA_sequencing_data_analysis</title>
+    <link href="http://yoursite.com/2020/12/14/DNA-sequencing-data-analysis/"/>
+    <id>http://yoursite.com/2020/12/14/DNA-sequencing-data-analysis/</id>
+    <published>2020-12-14T13:08:09.000Z</published>
+    <updated>2020-12-14T13:14:58.455Z</updated>
+    
+    <summary type="html">
+    
+      guide to DNA sequencing data analysis
+    
+    </summary>
+    
+      <category term="Self-learning_microbiolgy" scheme="http://yoursite.com/categories/Self-learning-microbiolgy/"/>
+    
+    
+      <category term="Microbiology" scheme="http://yoursite.com/tags/Microbiology/"/>
+    
+      <category term="NGS" scheme="http://yoursite.com/tags/NGS/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Antibiotics</title>
     <link href="http://yoursite.com/2020/03/27/Antibiotics/"/>
     <id>http://yoursite.com/2020/03/27/Antibiotics/</id>
     <published>2020-03-27T07:36:08.000Z</published>
-    <updated>2020-03-27T08:12:50.730Z</updated>
+    <updated>2020-12-14T13:15:00.344Z</updated>
     
     <summary type="html">
     
@@ -29,7 +71,7 @@
     
     </summary>
     
-      <category term="Self-learning_mircrobiology" scheme="http://yoursite.com/categories/Self-learning-mircrobiology/"/>
+      <category term="Self-learning_microbiology" scheme="http://yoursite.com/categories/Self-learning-microbiology/"/>
     
     
       <category term="Microbiology" scheme="http://yoursite.com/tags/Microbiology/"/>

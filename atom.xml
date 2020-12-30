@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-12-14T13:34:34.230Z</updated>
+  <updated>2020-12-30T10:50:30.697Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Death And All His Friends</title>
+    <link href="http://yoursite.com/2020/12/30/Death-And-All-His-Friends/"/>
+    <id>http://yoursite.com/2020/12/30/Death-And-All-His-Friends/</id>
+    <published>2020-12-30T10:47:48.000Z</published>
+    <updated>2020-12-30T10:50:30.697Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p class=&quot;description&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://&quot; alt=&quot;&quot; style=&quot;width:100%&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="随想" scheme="http://yoursite.com/categories/%E9%9A%8F%E6%83%B3/"/>
+    
+    
+      <category term="随想" scheme="http://yoursite.com/tags/%E9%9A%8F%E6%83%B3/"/>
+    
+  </entry>
   
   <entry>
     <title>亡命之徒-纵贯线</title>

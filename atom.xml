@@ -242,11 +242,11 @@
       <category term="trip" scheme="http://yoursite.com/categories/trip/"/>
     
     
+      <category term="ultramanccc" scheme="http://yoursite.com/tags/ultramanccc/"/>
+    
       <category term="trip" scheme="http://yoursite.com/tags/trip/"/>
     
       <category term="游记" scheme="http://yoursite.com/tags/%E6%B8%B8%E8%AE%B0/"/>
-    
-      <category term="ultramanccc" scheme="http://yoursite.com/tags/ultramanccc/"/>
     
   </entry>
   
@@ -290,9 +290,9 @@
       <category term="diary" scheme="http://yoursite.com/categories/diary/"/>
     
     
-      <category term="ultramanccc" scheme="http://yoursite.com/tags/ultramanccc/"/>
-    
       <category term="随记" scheme="http://yoursite.com/tags/%E9%9A%8F%E8%AE%B0/"/>
+    
+      <category term="ultramanccc" scheme="http://yoursite.com/tags/ultramanccc/"/>
     
   </entry>
   

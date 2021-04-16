@@ -251,28 +251,6 @@
   </entry>
   
   <entry>
-    <title>随记</title>
-    <link href="http://yoursite.com/2018/12/16/%E9%9A%8F%E8%AE%B0/"/>
-    <id>http://yoursite.com/2018/12/16/随记/</id>
-    <published>2018-12-16T10:42:32.000Z</published>
-    <updated>2018-12-16T11:25:47.000Z</updated>
-    
-    <summary type="html">
-    
-      随记
-    
-    </summary>
-    
-      <category term="diary" scheme="http://yoursite.com/categories/diary/"/>
-    
-    
-      <category term="随记" scheme="http://yoursite.com/tags/%E9%9A%8F%E8%AE%B0/"/>
-    
-      <category term="ultramanccc" scheme="http://yoursite.com/tags/ultramanccc/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Preview about PATH6100 topic 1</title>
     <link href="http://yoursite.com/2018/08/31/PATH6100/"/>
     <id>http://yoursite.com/2018/08/31/PATH6100/</id>
@@ -355,28 +333,6 @@
     
     </summary>
     
-    
-  </entry>
-  
-  <entry>
-    <title>肿瘤表观遗传学（epigenetics）浅谈</title>
-    <link href="http://yoursite.com/2018/06/27/epigenetics/"/>
-    <id>http://yoursite.com/2018/06/27/epigenetics/</id>
-    <published>2018-06-27T13:36:17.000Z</published>
-    <updated>2018-07-12T15:34:09.000Z</updated>
-    
-    <summary type="html">
-    
-      肿瘤表观遗传学
-    
-    </summary>
-    
-    
-      <category term="Blog" scheme="http://yoursite.com/tags/Blog/"/>
-    
-      <category term="epigenetics" scheme="http://yoursite.com/tags/epigenetics/"/>
-    
-      <category term="DNA methylation" scheme="http://yoursite.com/tags/DNA-methylation/"/>
     
   </entry>
   
